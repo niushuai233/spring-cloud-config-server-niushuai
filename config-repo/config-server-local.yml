@@ -3,3 +3,9 @@ server:
 spring:
   application:
     name: config-server-niushuai-local
+niushuai:
+  data:
+    name: 牛帅
+    age: 10
+    type: server
+    env: local

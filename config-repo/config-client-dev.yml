@@ -3,3 +3,9 @@ server:
 spring:
   application:
     name: config-client-niushuai-dev
+niushuai:
+  data:
+    name: 牛帅
+    age: 21
+    type: client
+    env: dev
