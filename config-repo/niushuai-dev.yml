@@ -2,7 +2,7 @@ server:
   port: 19631
 spring:
   application:
-    name: niushuai-dev
+    name: niushuai-dev-update
 niushuai:
   data:
     name: 牛帅
