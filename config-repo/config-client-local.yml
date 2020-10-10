@@ -1,0 +1,5 @@
+server:
+  port: 19620
+spring:
+  application:
+    name: config-client-niushuai-local

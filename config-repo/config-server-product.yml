@@ -1,0 +1,5 @@
+server:
+  port: 19613
+spring:
+  application:
+    name: config-server-niushuai-product

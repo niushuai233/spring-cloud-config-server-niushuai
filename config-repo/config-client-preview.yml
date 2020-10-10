@@ -1,0 +1,5 @@
+server:
+  port: 19622
+spring:
+  application:
+    name: config-client-niushuai-preview

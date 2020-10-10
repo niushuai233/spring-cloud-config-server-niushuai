@@ -1,0 +1,5 @@
+server:
+  port: 19610
+spring:
+  application:
+    name: config-server-niushuai-local
