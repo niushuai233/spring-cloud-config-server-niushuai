@@ -1,0 +1,11 @@
+server:
+  port: 19630
+spring:
+  application:
+    name: niushuai-local
+niushuai:
+  data:
+    name: 牛帅
+    age: 21
+    type: client
+    env: local
