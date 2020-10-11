@@ -1,11 +1,11 @@
 server:
-  port: 19621
+  port: 29621
 spring:
   application:
     name: config-client-niushuai-dev
 niushuai:
   data:
-    name: 牛帅
+    name: 牛帅_v2
     age: 21
     type: client
     env: dev
